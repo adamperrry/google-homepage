@@ -1,0 +1,1 @@
+Mini-project for The Odin Project - Web Development 101 course. Recreation of the google homepage.
